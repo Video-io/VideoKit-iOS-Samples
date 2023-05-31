@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "videokit-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Video-io/VideoKit-iOS",
+      "state" : {
+        "revision" : "23acfb251c8811ae9921531a07626744e459a00e",
+        "version" : "1.3.0-rc02"
+      }
+    }
+  ],
+  "version" : 2
+}
